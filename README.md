@@ -1,2 +1,3 @@
-# clonediscordbuild -- React.JS https://clonediscordbuild.vercel.app/
+# DiscordUi
+Clone do Discord feito em React.js
 
